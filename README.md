@@ -1,5 +1,12 @@
 # 💫 About Me:
-🌱 I’m currently learning Computer and Network Engineering at the National Graduate School of Engineering South Alsace (ENSISA)<br>
+🌱 I am a Machine Learning enthusiast with strong hands-on experience building **practical, real-world AI systems**.  
+I study **Artificial Intelligence at UQAC (Canada)** in a double-degree program with **ENSISA (France)**, and I am currently **seeking a 6-month internship (Machine Learning / Computer Vision)**.
+
+I enjoy designing systems end-to-end: from data preprocessing to model training, evaluation, optimization, and deployment.
+
+🎯 **My goal:** become a Machine Learning Engineer capable of delivering AI solutions with measurable impact.
+
+---<br>
 
 
 ## 🌐 Socials:
