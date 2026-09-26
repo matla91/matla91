@@ -32,7 +32,7 @@ My interests extend to **computer vision, inverse problems, and research-oriente
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="assets/computational-imaging.svg" width="100%" alt="Conceptual illustration of computational imaging; not experimental results" />
+      <img src="assets/nlos_bunny_gray_cube.svg" width="100%" alt="Conceptual illustration of computational imaging; not experimental results" />
       <h3>Computational imaging · NLOS</h3>
       <p>Research on learning-based reconstruction beyond the line of sight, combining transient-light simulation, ML, and quantitative reconstruction analysis.</p>
       <p><code>PyTorch</code> <code>Mitsuba 3</code> <code>Dr.Jit</code> <code>CUDA</code></p>
