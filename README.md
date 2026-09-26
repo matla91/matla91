@@ -11,6 +11,8 @@
   <a href="#technical-focus">Technical focus</a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://github.com/matla91/basel-tram-air">Basel Tram Air</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/matthis-lahargoue/">LinkedIn</a>
 </p>
 
 <br />
