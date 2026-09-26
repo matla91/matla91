@@ -39,7 +39,7 @@ My interests extend to **computer vision, inverse problems, and research-oriente
       <p><sub>Research work · Not a public repository</sub></p>
     </td>
     <td width="50%" valign="top">
-      <img src="assets/basel-tram-air.svg" width="100%" alt="Conceptual urban-network illustration for the Basel Tram Air project; not a real map" />
+      <img src="assets/basel_tram_air_dashboard_wrapper.svg" width="100%" alt="Conceptual urban-network illustration for the Basel Tram Air project; not a real map" />
       <h3>Basel Tram Air</h3>
       <p>A hackathon data project exploring PM2.5 air-quality patterns along Basel's tram corridors, with a focus on analysis and visual communication.</p>
       <p><code>Python</code> <code>Data analysis</code> <code>Visualization</code></p>
