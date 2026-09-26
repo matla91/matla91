@@ -1,97 +1,68 @@
-<h1 align="center">Hi, I'm Matthis Lahargoue</h1>
+<!-- GitHub profile README · scientific minimalism / engineering portfolio -->
+<!-- Project artwork is conceptual, not experimental data or a geographic map. -->
+
 <p align="center">
-  Machine Learning · Computer Vision · Scientific Computing
+  <img src="assets/header.svg" width="100%" alt="Matthis Lahargoue — Machine Learning, Computer Vision, Scientific Computing" />
 </p>
 
 <p align="center">
-  Engineering student building at the intersection of data, simulation, and intelligent systems.
+  <a href="#selected-work">Selected work</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="#technical-focus">Technical focus</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://github.com/matla91/basel-tram-air">Basel Tram Air</a>
 </p>
 
----
+<br />
 
-## About me
+### From physical signals to meaningful models.
 
-I am a French engineering student in Computer Science and Networks at **ENSISA**, currently pursuing a double degree with **UQAC** in Computer Science with a focus on **Artificial Intelligence**.
+I'm a **French engineering student** pursuing a double degree in Computer Science at **ENSISA** and **UQAC**, with a focus on artificial intelligence.
 
-My work sits at the intersection of:
+I'm currently a **research intern at the French-German Research Institute of Saint-Louis (ISL)**, working at the intersection of **machine learning, computational imaging, and scientific computing**. I enjoy building the full experimental pipeline: from simulation and data preparation to model training, quantitative evaluation, and visualization.
 
-- **Machine Learning**
-- **Computer Vision**
-- **Scientific Computing**
-- **Computational Imaging**
+My interests extend to **computer vision, inverse problems, and research-oriented ML engineering**.
 
-I am particularly interested in designing systems that connect **signal acquisition**, **physical modeling**, and **learning-based reconstruction**.
+<br />
 
-I am currently working on **machine learning for non-line-of-sight imaging**, with a strong interest in research-oriented engineering, simulation pipelines, and high-performance experimentation.
+## Selected work
 
----
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="assets/computational-imaging.svg" width="100%" alt="Conceptual illustration of computational imaging; not experimental results" />
+      <h3>Computational imaging · NLOS</h3>
+      <p>Research on learning-based reconstruction beyond the line of sight, combining transient-light simulation, ML, and quantitative reconstruction analysis.</p>
+      <p><code>PyTorch</code> <code>Mitsuba 3</code> <code>Dr.Jit</code> <code>CUDA</code></p>
+      <p><sub>Research work · Not a public repository</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <img src="assets/basel-tram-air.svg" width="100%" alt="Conceptual urban-network illustration for the Basel Tram Air project; not a real map" />
+      <h3>Basel Tram Air</h3>
+      <p>A hackathon data project exploring PM2.5 air-quality patterns along Basel's tram corridors, with a focus on analysis and visual communication.</p>
+      <p><code>Python</code> <code>Data analysis</code> <code>Visualization</code></p>
+      <p><a href="https://github.com/matla91/basel-tram-air">View repository →</a></p>
+      <p><sub>Hack am Rhein warm-up · 2026</sub></p>
+    </td>
+  </tr>
+</table>
 
-## Selected Projects
+<sub>The illustrations above are original conceptual artwork, not experimental results or measured data.</sub>
 
-### Computational Imaging / NLOS Reconstruction
-Research-oriented work on machine learning for **non-line-of-sight imaging**.  
-This includes data generation pipelines, model training, evaluation, and reconstruction analysis in a scientific computing context.
+<br />
 
-**Topics:** PyTorch, simulation, inverse problems, 3D reconstruction, scientific ML
+## Technical focus
 
----
+| Machine learning | Scientific computing | Engineering |
+| :--- | :--- | :--- |
+| Python · PyTorch | Mitsuba 3 · Dr.Jit | Linux · Git |
+| Model training & evaluation | Simulation & inverse problems | CUDA · Reproducible pipelines |
+| Computer vision | Computational imaging | Data processing & visualization |
 
-### Basel Tram Air
-A small data science project built during a hackathon, focused on exploring **PM2.5 air quality patterns** along tram corridors in Basel.
+<br />
 
-**Topics:** data analysis, visualization, environmental data, rapid prototyping
+## Currently exploring
 
----
+Learning-based reconstruction, simulation-driven datasets, and reliable evaluation for scientific ML — while building toward a career in **machine learning and computer vision engineering**.
 
-### Scientific ML & Simulation Experiments
-A broader collection of experiments around machine learning workflows, simulation-driven datasets, and reproducible engineering practices.
-
-**Topics:** Python, Linux, CUDA, reproducibility, experiment design
-
----
-
-## Technical Focus
-
-### Machine Learning & Data
-- Python
-- PyTorch
-- Model training and evaluation
-- Data analysis
-- Scientific ML
-
-### Scientific Computing
-- Simulation workflows
-- Computational imaging
-- Signal processing concepts
-- Experiment design
-- Reproducible research pipelines
-
-### Tools & Environment
-- Linux
-- Git
-- CUDA
-- Mitsuba 3
-- Dr.Jit
-
----
-
-## Current Focus
-
-- Building stronger end-to-end ML projects
-- Deepening my work in computer vision and scientific computing
-- Developing research and engineering experience in computational imaging
-- Preparing for ML / AI opportunities in Switzerland
-
----
-
-## Connect
-
-- LinkedIn: [your-linkedin-link]
-- GitHub Projects: [your-projects-or-pinned-repos]
-- Email: [your-email-if-you-want]
-
----
-
-<p align="center">
-  <i>Interested in machine learning, computer vision, and scientific computing.</i>
-</p>
+<p align="center"><sub>Open to connecting with researchers and engineers working on ML, vision, and scientific computing.</sub></p>
