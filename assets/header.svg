@@ -1,8 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="427" viewBox="0 0 1280 427" role="img" aria-labelledby="title desc">
 <title id="title">Matthis Lahargoue — Machine Learning, Computer Vision, Scientific Computing</title>
-<desc id="desc">Black and white engineering research banner. Matthis Lahargoue at left; scientific waveforms and a subtle gray technical grid at right.</desc>
-<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0B0B0B"/><stop offset="1" stop-color="#101010"/></linearGradient></defs>
-<rect width="1280" height="427" fill="url(#bg)"/>
+<desc id="desc">Monochrome engineering research banner on an exact #010409 background. Matthis Lahargoue at left; scientific waveforms and a subtle gray technical grid at right.</desc>
+<rect width="1280" height="427" fill="#010409"/>
 <g fill="none" stroke="#454545" stroke-width="0.8" opacity="0.38">
 <path d="M598 0V427 M764 0V427 M930 0V427 M1096 0V427 M1262 0V427 M598 73H1280 M598 169H1280 M598 261H1280 M598 361H1280"/>
 </g>
