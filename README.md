@@ -49,8 +49,7 @@ My interests extend to **computer vision, inverse problems, and research-oriente
   </tr>
 </table>
 
-<sub>The illustrations above are original conceptual artwork, not experimental results or measured data.</sub>
-
+<sub>The Basel Tram Air visual is a real project screenshot; the computational imaging visual remains an original conceptual illustration.</sub>
 <br />
 
 ## Technical focus
